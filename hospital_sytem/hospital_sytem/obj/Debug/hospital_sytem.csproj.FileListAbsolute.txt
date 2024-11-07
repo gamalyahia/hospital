@@ -1,0 +1,15 @@
+C:\Users\salma.mohamed\Desktop\hospital-team-2\hospital\hospital_sytem\hospital_sytem\bin\Debug\hospital_sytem.exe.config
+C:\Users\salma.mohamed\Desktop\hospital-team-2\hospital\hospital_sytem\hospital_sytem\bin\Debug\hospital_sytem.exe
+C:\Users\salma.mohamed\Desktop\hospital-team-2\hospital\hospital_sytem\hospital_sytem\bin\Debug\hospital_sytem.pdb
+C:\Users\salma.mohamed\Desktop\hospital-team-2\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.csproj.AssemblyReference.cache
+C:\Users\salma.mohamed\Desktop\hospital-team-2\hospital\hospital_sytem\hospital_sytem\obj\Debug\MainWindow.g.cs
+C:\Users\salma.mohamed\Desktop\hospital-team-2\hospital\hospital_sytem\hospital_sytem\obj\Debug\App.g.cs
+C:\Users\salma.mohamed\Desktop\hospital-team-2\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem_MarkupCompile.cache
+C:\Users\salma.mohamed\Desktop\hospital-team-2\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem_MarkupCompile.lref
+C:\Users\salma.mohamed\Desktop\hospital-team-2\hospital\hospital_sytem\hospital_sytem\obj\Debug\MainWindow.baml
+C:\Users\salma.mohamed\Desktop\hospital-team-2\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.g.resources
+C:\Users\salma.mohamed\Desktop\hospital-team-2\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.Properties.Resources.resources
+C:\Users\salma.mohamed\Desktop\hospital-team-2\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.csproj.GenerateResource.cache
+C:\Users\salma.mohamed\Desktop\hospital-team-2\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.csproj.CoreCompileInputs.cache
+C:\Users\salma.mohamed\Desktop\hospital-team-2\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.exe
+C:\Users\salma.mohamed\Desktop\hospital-team-2\hospital\hospital_sytem\hospital_sytem\obj\Debug\hospital_sytem.pdb
